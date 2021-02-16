@@ -7,6 +7,9 @@
     <title>Movie Name</title>
 </head>
 <body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-6">
     <table class="table">
         <tr>
             <td>Movie Name</td>
@@ -38,5 +41,8 @@
         </tr>
        
     </table>
+    </div>
+    </div>
+    </div>
 </body>
 </html>
